@@ -1,0 +1,356 @@
+{
+    "zones":[
+      {
+        "id": 250,
+        "title": "France",
+        "appLocation": "fr",
+        "offerZone": "cpfra",
+        "form":[
+          "email_phone_login",
+          "num_abo",
+          "zip_code",
+          "password"
+        ],
+        "partners":[
+          {
+            "id": 1,
+            "title":"AbonnÃ© TV by CANAL",
+            "URLImage":"",
+            "URLoAuth" : ""
+          },
+          {
+            "id": 2,
+            "title":"AbonnÃ© Famille by CANAL",
+            "URLImage":"",
+            "URLoAuth" : ""
+    
+          }
+        ]
+      },
+      {
+            "id": 854,
+            "title": "Burkina Faso",
+            "appLocation": "bf",
+            "offerZone": "cpbfa",
+            "callingCode" : "+226",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 108,
+            "title": "Burundi",
+            "appLocation": "bi",
+            "offerZone": "cpbdi",
+            "callingCode" : "+257",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 204,
+            "title": "BÃ©nin",
+            "appLocation": "bj",
+            "offerZone": "cpben",
+            "callingCode" : "+229",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 120,
+            "title": "Cameroun",
+            "appLocation": "cm",
+            "offerZone": "cpcmr",
+            "callingCode" : "+237",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 132,
+            "title": "Cap Vert",
+            "appLocation": "cv",
+            "offerZone": "cpcpv",
+            "callingCode" : "+238",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 180,
+            "title": "Congo",
+            "appLocation": "cg",
+            "offerZone": "cpcog",
+            "callingCode" : "+242",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 384,
+            "title": "CÃ´te dâ€™Ivoire",
+            "appLocation": "ci",
+            "offerZone": "cpciv",
+            "callingCode" : "+225",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 262,
+            "title": "Djibouti",
+            "appLocation": "dj",
+            "offerZone": "cpdji",
+            "callingCode" : "+253",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 266,
+            "title": "Gabon",
+            "appLocation": "ga",
+            "offerZone": "cpgab",
+            "callingCode" : "+241",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 270,
+            "title": "Gambie",
+            "appLocation": "gm",
+            "offerZone": "cpgmb",
+            "callingCode" : "+220",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 288,
+            "title": "Ghana",
+            "appLocation": "gh",
+            "offerZone": "cpgha",
+            "callingCode" : "+233",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 324,
+            "title": "GuinÃ©e",
+            "appLocation": "gn",
+            "offerZone": "cpgin",
+            "callingCode" : "+594",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 624,
+            "title": "GuinÃ©e Bissau",
+            "appLocation": "gw",
+            "offerZone": "cpgnb",
+            "callingCode" : "+245",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 226,
+            "title": "GuinÃ©e Ã©quatoriale",
+            "appLocation": "gq",
+            "offerZone": "cpgnq",
+            "callingCode" : "+240",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 466,
+            "title": "Mali",
+            "appLocation": "ml",
+            "offerZone": "cpmli",
+            "callingCode" : "+223",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 478,
+            "title": "Mauritanie",
+            "appLocation": "mr",
+            "offerZone": "cpmrt",
+            "callingCode" : "+222",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 562,
+            "title": "Niger",
+            "appLocation": "ne",
+            "offerZone": "cpner",
+            "callingCode" : "+227",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 566,
+            "title": "Nigeria",
+            "appLocation": "ng",
+            "offerZone": "cpnga",
+            "callingCode" : "+234",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 180,
+            "title": "RDC",
+            "appLocation": "cd",
+            "offerZone": "cpcod",
+            "callingCode" : "+243",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 646,
+            "title": "Rwanda",
+            "appLocation": "rw",
+            "offerZone": "cprwa",
+            "callingCode" : "+250",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 140,
+            "title": "RÃ©publique centrafricaine",
+            "appLocation": "cf",
+            "offerZone": "cpcaf",
+            "callingCode" : "+242",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 694,
+            "title": "Sierra Leone",
+            "appLocation": "sl",
+            "offerZone": "cpsle",
+            "callingCode" : "+232",
+            "form":[
+              "email_phone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 686,
+            "title": "SÃ©nÃ©gal",
+            "appLocation": "sn",
+            "offerZone": "cpsen",
+            "callingCode" : "+221",
+            "form":[
+              "email_telephone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 148,
+            "title": "Tchad",
+            "appLocation": "td",
+            "offerZone": "cptcd",
+            "callingCode" : "+235",
+            "form":[
+              "email_telephone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          },
+          {
+            "id": 686,
+            "title": "Togo",
+            "appLocation": "tg",
+            "offerZone": "cptgo",
+            "callingCode" : "+228",
+            "form":[
+              "email_telephone_login",
+              "resubscription_number",
+              "password"
+            ],
+            "partners":[]
+          }
+        ]
+    }
